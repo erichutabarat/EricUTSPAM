@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/padding2"
+    tools:context=".dashboard.DashboardProfileFragment">
+
+    <TextView
+        android:id="@+id/greetings_user"
+        android:layout_width="match_parent"
+        android:layout_height="97dp"
+        android:textAlignment="center"
+        android:textSize="@dimen/title_h1" />
+
+    <TextView
+        android:id="@+id/tampil_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hint_username"
+        android:textSize="@dimen/title_h3"
+        />
+
+    <TextView
+        android:id="@+id/tampil_nim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hint_password"
+        android:textSize="@dimen/title_h3"
+        />
+
+    <Button
+        android:id="@+id/user_logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="@dimen/padding1"
+        android:text="@string/button_logout" />
+</LinearLayout>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Eric UTS PAM</string>
+    <string name="greetings">Welcome to Gifts Social APP</string>
+    <string name="please_login">Login</string>
+    <string name="please_register">Register</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="button_logout">Logout</string>
+    <string name="label_user">Username: </string>
+    <string name="hint_username">input username</string>
+    <string name="label_pass">Password: </string>
+    <string name="hint_password">input password</string>
+    <string name="label_NIM">NIM: </string>
+    <string name="hint_nim">input NIM</string>
+    <string name="or_register">Don\'t have account? Click Here</string>
+    <string name="or_login">Already have account? Click Here</string>
+    <string name="back"> Back</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="welcome_user">Welcome, %1$s!</string>
+
+    <string name="nama_user">Nama: %1$s</string>
+    <string name="nim_user">NIM: %1$s</string>
+</resources>

@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/background" android:alpha="0.4"/> <!-- Replace with your background drawable -->
+    <item>
+        <shape>
+            <solid android:color="#4C000000"/> <!-- Color with 30% opacity (RGBA) -->
+        </shape>
+    </item>
+</layer-list>

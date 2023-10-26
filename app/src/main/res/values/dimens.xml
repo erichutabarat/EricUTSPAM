@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_h1">28sp</dimen>
+    <dimen name="title_h2">26sp</dimen>
+    <dimen name="title_h3">22sp</dimen>
+    <dimen name="label_user">22sp</dimen>
+    <dimen name="input_height">48dp</dimen>
+    <dimen name="label_pass">22sp</dimen>
+    <dimen name="sizebutton_login">20sp</dimen>
+    <dimen name="sizebutton_register">20sp</dimen>
+    <dimen name="padding1">10dp</dimen>
+    <dimen name="padding2">8dp</dimen>
+    <dimen name="heightmenu">60dp</dimen>
+</resources>
